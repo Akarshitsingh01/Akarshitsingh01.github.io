@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fundamentals of Digital Marketing",
+    "description": "Provided by Google Digital Marketing",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    },
+    "download" : "assets/certificate/market.jpg"
+  },
+  {
+    "title": "Business Analytics Bootcamp",
+    "description": "Organized by Skill Academy under guidnace of Shweta Ingavle , Test Book",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    },
+    "download" : "assets/certificate/boot.jpg"
+  },
+  {
+    "title": "Smart Material and Sustainable Technology",
+    "description": "Organized by Gorakhpur University",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    },
+    "download" : "assets/certificate/smart.jpg"
+  }
+]
